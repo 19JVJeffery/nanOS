@@ -1,4 +1,4 @@
-# nanOS
+![Preview](Banner.png)
 
 > **Clarity, reimagined.**
 
