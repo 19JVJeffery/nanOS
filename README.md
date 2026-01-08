@@ -1,4 +1,4 @@
-<img width="3588" height="992" alt="Banner" src="https://github.com/user-attachments/assets/97697689-1d97-429a-bd09-459efbf0befe" />
+<img width="3588" height="660" alt="Banner" src="https://github.com/user-attachments/assets/45dfadf7-94d2-441e-942f-36ed3c029c30" />
 
 > **Clarity, reimagined.**
 
