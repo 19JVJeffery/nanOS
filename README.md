@@ -1,6 +1,6 @@
 <img width="3588" height="660" alt="Banner" src="https://github.com/user-attachments/assets/45dfadf7-94d2-441e-942f-36ed3c029c30" />
 
-:-:Clarity, reimagined.:-:
+:-Clarity, reimagined.-:
 
 ---
 
