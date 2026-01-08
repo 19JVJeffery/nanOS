@@ -1,4 +1,4 @@
-![Preview](Banner.png)
+<img width="3588" height="992" alt="Banner" src="https://github.com/user-attachments/assets/97697689-1d97-429a-bd09-459efbf0befe" />
 
 > **Clarity, reimagined.**
 
