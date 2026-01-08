@@ -2,12 +2,6 @@
 
 > **Clarity, reimagined.**
 
-![Platform](https://img.shields.io/badge/platform-iPod%20nano%207th%20gen-lightgrey)
-![Style](https://img.shields.io/badge/design-Liquid%20Glass-blue)
-![Appearance](https://img.shields.io/badge/appearance-Light%20%26%20Dark-black)
-![Status](https://img.shields.io/badge/status-Active%20Development-green)
-![License](https://img.shields.io/badge/license-MIT-purple)
-
 ---
 
 ## Introducing nanOS
