@@ -1,4 +1,4 @@
-![Preview](.png)
+![Preview](Banner.png)
 
 > **Clarity, reimagined.**
 
